@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jainulhasan11@gmail.com**
 
-- 📄 Know about my experiences [https://jainulhasan.herokuapp.com](https://jainulhasan.herokuapp.com)
+- 📄 Know about my experiences <a href="https://jainulhasan.herokuapp.com" target="_blank">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
