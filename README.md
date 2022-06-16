@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jainulhasan11@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bfmAC](shorturl.at/bfmAC)
+- 📄 Know about my experiences [https://jainulhasan.herokuapp.com](https://jainulhasan.herokuapp.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
